@@ -10,7 +10,7 @@ Your project's README file should include a title and a succinct explanation of 
 
 Add a table of contents if your README is lengthy to make it simple for users to access the information they want.
 
-* [Installation](#installation)
+* [Setup](#setup)
 * [Usage](#usage)
 * [Credits](#credits)
 * [License](#license)
